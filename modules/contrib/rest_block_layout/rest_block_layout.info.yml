@@ -1,0 +1,14 @@
+name: Block Layout
+type: module
+description: REST Endpoint for Block Layout
+# core: 8.x
+package: Web services
+dependencies:
+  - block
+  - rest
+
+# Information added by Drupal.org packaging script on 2017-04-18
+version: '8.x-1.0'
+core: '8.x'
+project: 'rest_block_layout'
+datestamp: 1492559351
