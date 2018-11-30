@@ -6,4 +6,5 @@
 .gitattributes
 .ht.router.php
 .htaccess
+core
 
